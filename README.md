@@ -34,7 +34,7 @@ Try it here: https://namazkhan.github.io/movie-rec-system/
 
 MIT License
 
-Copyright (c) 2023 Namoz Mamadkarimov
+Copyright (c) 2023 Namoz Muhammadkarim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -57,5 +57,5 @@ SOFTWARE.
 
 ### Autor
 ------------------------------------------------
-> NamozMamadkarimov, namozmuhammadkarim@gmail.com, ChungBuk National Univ(Undergraduate).
+> NamozMuhammadkarim, namozmuhammadkarim@gmail.com, ChungBuk National Univ(Undergraduate).
 -----------------------------------------------
